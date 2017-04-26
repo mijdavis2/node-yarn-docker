@@ -1,7 +1,7 @@
 # node-yarn-docker
 Node.js + yarn docker images
 
-Dockerhub: https://hub.docker.com/r/mijdavis2/node-yarn/
+Dockerhub: https://hub.docker.com/u/mijdavis2/
 
 # tags
 
